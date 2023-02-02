@@ -1,8 +1,5 @@
 import React from "react";
-import Counter from "./components/counter";
-import Footer from "./components/footer";
 import Header from "./components/header";
-import Main from "./components/main";
 import Wrapper from "./components/wrapper";
 import "./styles/style.css";
 
